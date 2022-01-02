@@ -2,9 +2,9 @@
 
 I am currently working with Python, but I am always looking for new opportunities to learn new stuff.
 
-I’m open to collaborate on projects and help people that are learning HTML, CSS or JS.
+I’m open to collaborate on projects and help people for every languague programming.
 
-[![Invit me a coffe](https://cdn.cafecito.app/imgs/buttons/button_4.svg)](https://cafecito.app/alazzuri)
+[![Invit me a coffe](https://cdn.cafecito.app/imgs/cafecito_logo.svg)](https://cafecito.app/xlmriosx)
 
 <!--
 #### My Stack
