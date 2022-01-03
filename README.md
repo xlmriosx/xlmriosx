@@ -10,7 +10,7 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 ## ⚖My Stack
 ### 🎨Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFC300?style=for-the-badge&logo=JavaScript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 <!--![Redux](https://img.shields.io/badge/-Redux-311C87?style=for-the-badge&logo=redux)-->
 
