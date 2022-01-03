@@ -19,16 +19,16 @@ I'm open to collaborate on projects and help people for every languague programm
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 
-##### 🛢Backend
-
+#### 💿Backend
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=orange)
+![MySQL](https://img.shields.io/badge/-MySQL-B0C4DE?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!--##### **Deployment**
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)-->
 
-##### Tools
+### Tools
+
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 <!--[GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)-->
