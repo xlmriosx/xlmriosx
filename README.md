@@ -35,7 +35,7 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 
 #### 👨‍💻IDE
 ![PyCharm](https://img.shields.io/badge/PyCharm-66CDAA?style=for-the-badge&logo=PyCharm&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-8A2BE2?style=for-the-badge&logo=IntelliJ&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-8A2BE2?style=for-the-badge&logo=Intellij&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 #### ☎Comunnicational Tools
