@@ -21,7 +21,7 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 ### 💿Backend
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-red?style=for-the-badge&logo=MongoDB&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-ff0000?style=for-the-badge&logo=MongoDB&logoColor=white)
 
 <!--##### **Deployment**
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
