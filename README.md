@@ -35,7 +35,7 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 <!--[GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)-->
 
 #### 👨‍💻IDE
-![Deep Note](https://img.shields.io/badge/Deep_Note-blue?style=for-the-badge&logo=Deep-Note&logoColor=white)
+![DeepNote](https://img.shields.io/badge/DeepNote-blue?style=for-the-badge&logo=DeepNote&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-orange?style=for-the-badge&logo=GoogleColab&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-66CDAA?style=for-the-badge&logo=PyCharm&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-8A2BE2?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
