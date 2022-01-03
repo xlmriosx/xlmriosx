@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Lucas M. Rios.
+# Hi there 👋 I'm Lucas M. Rios.
 
 I am currently working with Python🐍, but I am always looking for new opportunities to learn new stuff.
 
@@ -7,7 +7,7 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 ### [![Little coffe](https://cdn.cafecito.app/imgs/cafecito_logo.svg)](https://cafecito.app/xlmriosx) Invite me a coffe 
 
 
-## ⚖My Stack
+# ⚖My Stack
 ### 🎨Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFC300?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white)
@@ -28,7 +28,7 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)-->
 
 
-### 🛠Tools
+## 🛠Tools
 
 ### ☁Cloud
 ![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-gray?style=for-the-badge&logo=Amazon&logoColor=white)
