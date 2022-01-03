@@ -44,9 +44,8 @@ I'm open to collaborate on projects and help people for every languague programm
 
 #### Contact Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexislazzuri/)](https://www.linkedin.com/in/alexislazzuri/)
-[![Twitter](https://img.shields.io/badge/@alezzuri-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alezzuri) 
-[![Email](https://img.shields.io/badge/alexislazzuri@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexislazzuri@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xlmriosx/)](https://www.linkedin.com/in/alexislazzuri/)
+[![Email](https://img.shields.io/badge/alexislazzuri@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xlmriosx@gmail.com)
 
 <!--
 #### Projects I have been working on
