@@ -34,13 +34,19 @@ I'm open to collaborate on projects and help people for every languague programm
 <!--[GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)-->
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![PyCharm](https://img.shields.io/badge/PyCharm-66CDAA?style=for-the-badge&logo=PyCharm&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-8A2BE2?style=for-the-badge&logo=PyCharm&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-8A2BE2?style=for-the-badge&logo=IntelliJ&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
-###### **Comunnicational Tools**
+##### **Comunnicational Tools**
 ![Discord](https://img.shields.io/badge/Discord-B0C4DE?style=for-the-badge&logo=Discord&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-3f0f91?style=for-the-badge&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-1572B6?style=for-the-badge&logo=trello&logoColor=white)
+
+#### Contact Me
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexislazzuri/)](https://www.linkedin.com/in/alexislazzuri/)
+[![Twitter](https://img.shields.io/badge/@alezzuri-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alezzuri) 
+[![Email](https://img.shields.io/badge/alexislazzuri@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexislazzuri@gmail.com)
 
 <!--
 #### Projects I have been working on
@@ -69,11 +75,7 @@ I'm open to collaborate on projects and help people for every languague programm
 
 
 
-#### Contact Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexislazzuri/)](https://www.linkedin.com/in/alexislazzuri/)
-[![Twitter](https://img.shields.io/badge/@alezzuri-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alezzuri) 
-[![Email](https://img.shields.io/badge/alexislazzuri@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexislazzuri@gmail.com)
 
 
 
