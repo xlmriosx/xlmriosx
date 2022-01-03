@@ -11,7 +11,7 @@ I'm open to collaborate on projects and help people for every languague programm
 
 ### 🎨Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFC300?style=for-the-badge&logo=JavaScript&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-311C87?style=for-the-badge&logo=redux)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -20,8 +20,8 @@ I'm open to collaborate on projects and help people for every languague programm
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 
 #### 💿Backend
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-B0C4DE?style=for-the-badge&logo=mysql&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!--##### **Deployment**
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
