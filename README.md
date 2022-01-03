@@ -28,11 +28,6 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)-->
 
 ### 🛠Tools
-#### ↕Version Controllers
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-<!--![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm)
-[GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)-->
 
 #### 👨‍💻IDE
 ![DeepNote](https://img.shields.io/badge/DeepNote-blue?style=for-the-badge&logo=DeepNote&logoColor=white)
@@ -40,6 +35,13 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 ![PyCharm](https://img.shields.io/badge/PyCharm-66CDAA?style=for-the-badge&logo=PyCharm&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-8A2BE2?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+#### ↕Version Controllers
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+<!--![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm)
+[GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)-->
+
 
 #### 🔨Testing Tools
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=Postman&logoColor=white)
