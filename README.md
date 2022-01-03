@@ -2,13 +2,12 @@
 
 I am currently working with Python🐍, but I am always looking for new opportunities to learn new stuff.
 
-I'm open to collaborate on projects and help people for every languague programming and statitics problems.
+I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for every languague programming💻 and statitics problems📊.
 
 ### [![Little coffe](https://cdn.cafecito.app/imgs/cafecito_logo.svg)](https://cafecito.app/xlmriosx) Invite me a coffe 
 
 
-## 🚦My Stack
-
+## ⚖My Stack
 ### 🎨Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFC300?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=white)
@@ -27,8 +26,8 @@ I'm open to collaborate on projects and help people for every languague programm
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)-->
 
-### Tools
-
+### 🛠Tools
+##### ↕Version Controllers
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 <!--[GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)-->
