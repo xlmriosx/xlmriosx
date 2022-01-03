@@ -53,9 +53,9 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 ![Trello](https://img.shields.io/badge/-Trello-1572B6?style=for-the-badge&logo=trello&logoColor=white)
 
 ## 📧Contact Me
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xlmriosx/)](https://www.linkedin.com/in/xlmriosx/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xlmriosx@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xlmriosx/)](https://www.linkedin.com/in/xlmriosx/)
+[![Stackoverflow](https://img.shields.io/badge/Stackoverflow-D14836?style=for-the-badge&logo=Stawoverflow&logoColor=white)](https://stackoverflow.com/story/xlmriosx)
 
 <!--
 #### Projects I have been working on
