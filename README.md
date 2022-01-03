@@ -11,7 +11,7 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 ### 🎨Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFC300?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-311C87?style=for-the-badge&logo=redux)
+<!--![Redux](https://img.shields.io/badge/-Redux-311C87?style=for-the-badge&logo=redux)-->
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,6 +21,7 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 ### 💿Backend
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-red?style=for-the-badge&logo=MongoDB&logoColor=white)
 
 <!--##### **Deployment**
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
