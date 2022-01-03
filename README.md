@@ -11,7 +11,7 @@ I'm open to collaborate on projects and help people for every languague programm
 
 ##### **Frontend**
 ![PyCharm](https://img.shields.io/badge/PyCharm-black?style=for-the-badge&logo=PyCharm&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFC300?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-311C87?style=for-the-badge&logo=redux)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
