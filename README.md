@@ -10,7 +10,7 @@ I'm open to collaborate on projects and help people for every languague programm
 #### My Stack
 
 ##### **Frontend**
-![JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+![PyCharm] (https://img.shields.io/static/v1?label=<IDE>&message=<PyCharm>&color=<Yellor>)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-311C87?style=for-the-badge&logo=redux)
