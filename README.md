@@ -10,7 +10,6 @@ I'm open to collaborate on projects and help people for every languague programm
 #### My Stack
 
 ##### **Frontend**
-![PyCharm](https://img.shields.io/badge/PyCharm-black?style=for-the-badge&logo=PyCharm&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFC300?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-311C87?style=for-the-badge&logo=redux)
@@ -30,8 +29,8 @@ I'm open to collaborate on projects and help people for every languague programm
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
 
 ##### **Tools**
-![PyCharm]
-![IntelliJ]
+![PyCharm](https://img.shields.io/badge/PyCharm-66CDAA?style=for-the-badge&logo=PyCharm&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/PyCharm-8A2BE2?style=for-the-badge&logo=PyCharm&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
