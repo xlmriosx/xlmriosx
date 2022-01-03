@@ -19,7 +19,7 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 💿Backend
-![Nodejs](https://img.shields.io/badge/-Nodejs-2fa824?style=for-the-badge&logo=Node.js&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-29b028?style=for-the-badge&logo=Node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-f52e2e?style=for-the-badge&logo=MongoDB&logoColor=white)
 
