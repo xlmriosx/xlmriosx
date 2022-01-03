@@ -43,7 +43,7 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 ![Slack](https://img.shields.io/badge/-Slack-3f0f91?style=for-the-badge&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-1572B6?style=for-the-badge&logo=trello&logoColor=white)
 
-#### 📧Contact Me
+## 📧Contact Me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xlmriosx/)](https://www.linkedin.com/in/xlmriosx/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xlmriosx@gmail.com)
