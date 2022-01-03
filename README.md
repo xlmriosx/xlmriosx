@@ -27,7 +27,11 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)-->
 
+
 ### 🛠Tools
+
+### ☁Cloud
+![Amazon Web Services](https://img.shields.io/badge/AWS-gray?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)
 
 #### 👨‍💻IDE
 ![DeepNote](https://img.shields.io/badge/DeepNote-blue?style=for-the-badge&logo=DeepNote&logoColor=white)
