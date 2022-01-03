@@ -1,15 +1,15 @@
 ## Hi there 👋 I'm Lucas M. Rios.
 
-I am currently working with Python, but I am always looking for new opportunities to learn new stuff.
+I am currently working with Python🐍, but I am always looking for new opportunities to learn new stuff.
 
 I'm open to collaborate on projects and help people for every languague programming and statitics problems.
 
-### Invite me a coffe [![Little coffe](https://cdn.cafecito.app/imgs/cafecito_logo.svg)](https://cafecito.app/xlmriosx)
+### [![Little coffe](https://cdn.cafecito.app/imgs/cafecito_logo.svg)](https://cafecito.app/xlmriosx) Invite me a coffe 
 
 
-## My Stack
+## 🚦My Stack
 
-### Frontend
+### 🎨Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFC300?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-311C87?style=for-the-badge&logo=redux)
@@ -19,7 +19,7 @@ I'm open to collaborate on projects and help people for every languague programm
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 
-##### Backend
+##### 🛢Backend
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=orange)
