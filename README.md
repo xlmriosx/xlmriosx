@@ -24,9 +24,9 @@ I'm open to collaborate on projects and help people for every languague programm
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=orange)
 
-##### **Deployment**
+<!--##### **Deployment**
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)-->
 
 ##### **Tools**
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm)
@@ -38,7 +38,7 @@ I'm open to collaborate on projects and help people for every languague programm
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 ###### **Comunnicational Tools**
-![Discord](https://img.shields.io/badge/Discord-B0C4DE?style=for-the-badge&logo=Git&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-B0C4DE?style=for-the-badge&logo=Discord&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-3f0f91?style=for-the-badge&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-1572B6?style=for-the-badge&logo=trello&logoColor=white)
 
