@@ -47,7 +47,7 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=Postman&logoColor=white)
 
 #### ☎Comunnicational Tools
-![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=Notion&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-B0C4DE?style=for-the-badge&logo=Discord&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-3f0f91?style=for-the-badge&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-1572B6?style=for-the-badge&logo=trello&logoColor=white)
