@@ -11,6 +11,7 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 ### 🎨Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFC300?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white)
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 <!--![Redux](https://img.shields.io/badge/-Redux-311C87?style=for-the-badge&logo=redux)-->
 
@@ -20,15 +21,11 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 
 ### 💿Backend
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=white)
-
-![Django](https://img.shields.io/badge/-Django-green?style=for-the-badge&logo=Django&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-027200?style=for-the-badge&logo=Django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-181717?style=for-the-badge&logo=Flask&logoColor=white)
 
-
 ![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=Java&logoColor=white)
-
 ![Spring](https://img.shields.io/badge/-Spring-green?style=for-the-badge&logo=Spring&logoColor=white)
-
 
 ![MySQL](https://img.shields.io/badge/-MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-f52e2e?style=for-the-badge&logo=MongoDB&logoColor=white)
