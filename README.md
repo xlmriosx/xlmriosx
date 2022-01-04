@@ -41,7 +41,7 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 ### 👨‍💻Operative Systems
 ![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=Windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-9521b2?style=for-the-badge&logo=Linux&logoColor=white)
-![Elementary OS](https://img.shields.io/badge/Elementary_OS-gray?style=for-the-badge&logo=Elementary-OS&logoColor=white)
+![Elementary OS](https://img.shields.io/badge/Elementary-gray?style=for-the-badge&logo=Elementary&logoColor=white)
 
 ### ☁Cloud
 ![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-gray?style=for-the-badge&logo=Amazon&logoColor=white)
