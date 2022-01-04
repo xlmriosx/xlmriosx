@@ -38,10 +38,15 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 
 ## 🛠Tools
 
+### 👨‍💻Opertaive Systems
+![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=Windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=Linux&logoColor=white)
+![Elementary OS](https://img.shields.io/badge/[Elementary_OS-gray?style=for-the-badge&logo=[Elementary-OS&logoColor=white)
+
 ### ☁Cloud
 ![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-gray?style=for-the-badge&logo=Amazon&logoColor=white)
 
-#### 👨‍💻IDE
+#### ⌨IDE
 ![DeepNote](https://img.shields.io/badge/DeepNote-blue?style=for-the-badge&logo=DeepNote&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-orange?style=for-the-badge&logo=GoogleColab&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-66CDAA?style=for-the-badge&logo=PyCharm&logoColor=white)
