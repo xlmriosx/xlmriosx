@@ -45,6 +45,7 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 
 ### ☁Cloud
 ![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-gray?style=for-the-badge&logo=Amazon&logoColor=white)
+![Google Cloud Plataform](https://img.shields.io/badge/Google-red?style=for-the-badge&logo=Google&logoColor=white)
 
 #### ⌨IDE
 ![DeepNote](https://img.shields.io/badge/DeepNote-blue?style=for-the-badge&logo=DeepNote&logoColor=white)
