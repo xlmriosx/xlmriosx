@@ -1,6 +1,6 @@
 <h1 align="center">Hi People 👋! I'm Lucas M. Rios</h1>
 
-<h4 style="justiyfy-content: center">
+<h4 style="justify-content: center">
 I am currently working with Python🐍, but I am always looking for new opportunities to learn new stuff.
 
 I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for every languague programming💻 and statitics problems📊.
