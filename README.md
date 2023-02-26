@@ -59,6 +59,7 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 </a>
 </p>
  -->
+ <div style="justify-content: center>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=xlmriosx&label=Profile%20views&color=143ac2&style=flat" alt="xlmriosx" />
 </p>
@@ -72,3 +73,4 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xlmriosx&show_icons=true&locale=en" alt="xlmriosx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xlmriosx&theme=dark" alt="xlmriosx" /></p>
+ </div>
