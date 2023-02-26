@@ -59,7 +59,7 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 </a>
 </p>
  -->
- <div style="justify-content: center>
+ <div style="justify-content: center; align: center">
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=xlmriosx&label=Profile%20views&color=143ac2&style=flat" alt="xlmriosx" />
 </p>
