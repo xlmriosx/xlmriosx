@@ -11,10 +11,10 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 
 <h2 align="center"> A SRE from Argentina</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="ceneter">
+<h3 align="center">Connect with me:</h3>
+<p align="">
 <a href="https://linkedin.com/in/xlmriosx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xlmriosx" height="30" width="40" /></a>
-<a href="mailto:xlmriosx@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="xlmriosx" height="30" width="40" /></a>  
+<a href="mailto:xlmriosx@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="xlmriosx" height="25" width="35" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
