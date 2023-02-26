@@ -12,8 +12,11 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 <h2 align="center">A SRE from Argentina to the world 🗺️</h3>
 
 <h3 align="center">Connect with me:</h3>
+
 <p align="center">
-<a href="https://linkedin.com/in/xlmriosx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xlmriosx" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/xlmriosx" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xlmriosx" height="30" width="40" />
+ </a>
 <a href="mailto:xlmriosx@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="xlmriosx" height="25" width="35" /></a>  
 </p>
 <!-- 
@@ -68,9 +71,9 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 <img src="https://github-profile-trophy.vercel.app/?username=xlmriosx" alt="xlmriosx" />
 </a> 
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xlmriosx&show_icons=true&locale=en&layout=compact" alt="xlmriosx" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xlmriosx&show_icons=true&locale=en&layout=compact" alt="xlmriosx" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xlmriosx&show_icons=true&locale=en" alt="xlmriosx" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xlmriosx&show_icons=true&locale=en" alt="xlmriosx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xlmriosx&theme=dark" alt="xlmriosx" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xlmriosx&theme=dark" alt="xlmriosx" /></p>
  </div>
