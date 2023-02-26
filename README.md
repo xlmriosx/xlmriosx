@@ -14,8 +14,9 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 - How to reach me [My email](mailto:xlmriosx@gmail.com)  📫 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="ceneter">
 <a href="https://linkedin.com/in/xlmriosx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xlmriosx" height="30" width="40" /></a>
+<a href="mailto:xlmriosx@gmail.com" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmailmeteor.com%2Flogos%2Fgmail&psig=AOvVaw3wdaZ4Qlyy7-X-B8z0gECf&ust=1677533178966000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIinh5yQtP0CFQAAAAAdAAAAABAE)" alt="xlmriosx" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
