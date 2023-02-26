@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Lucas M. Rios.
+<h1 align="center">Hi People 👋! I'm Lucas M. Rios</h1>
 
 I am currently working with Python🐍, but I am always looking for new opportunities to learn new stuff.
 
@@ -8,22 +8,14 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 
 
 # ⚖My Stack
-<h1 align="center">Hi People 👋! I'm Diego Sosa</h1>
-<h3 align="center"> A Fullstack Developer from Argentina</h3>
 
-- I’m currently in 4th year of information systems engineering 💻
+<h3 align="center"> A SRE from Argentina</h3>
 
-- I’m currently learning **magento with PHP** 📘 
-
-- I'm currently working in my portfolio 📋
-
-- I’m a proactive person and eager to learn 😁
-
-- How to reach me [My email](mailto:dhsosa98@gmail.com)  📫 
+- How to reach me [My email](mailto:xlmriosx@gmail.com)  📫 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diego-horacio-sosa-08404b155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhsosa98" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/xlmriosx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xlmriosx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -69,21 +61,15 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 </p>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=dhsosa98&label=Profile%20views&color=143ac2&style=flat" alt="dhsosa98" />
+<img src="https://komarev.com/ghpvc/?username=xlmriosx&label=Profile%20views&color=143ac2&style=flat" alt="xlmriosx" />
 </p>
 <p align="left"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=dhsosa98" alt="dhsosa98" />
+<img src="https://github-profile-trophy.vercel.app/?username=xlmriosx" alt="xlmriosx" />
 </a> 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhsosa98&show_icons=true&locale=en&layout=compact" alt="dhsosa98" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xlmriosx&show_icons=true&locale=en&layout=compact" alt="xlmriosx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhsosa98&show_icons=true&locale=en" alt="dhsosa98" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xlmriosx&show_icons=true&locale=en" alt="xlmriosx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhsosa98&theme=dark" alt="dhsosa98" /></p>
-
-
-## 📧Contact Me
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xlmriosx@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xlmriosx/)](https://www.linkedin.com/in/xlmriosx/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-orange?style=for-the-badge&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/story/xlmriosx)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xlmriosx&theme=dark" alt="xlmriosx" /></p>
