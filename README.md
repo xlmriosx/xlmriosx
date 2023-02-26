@@ -1,13 +1,14 @@
 <h1 align="center">Hi People 👋! I'm Lucas M. Rios</h1>
 
+<h3 style="justiyfy-content: center">
 I am currently working with Python🐍, but I am always looking for new opportunities to learn new stuff.
 
 I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for every languague programming💻 and statitics problems📊.
+</h3>
+<!-- ### [![Little coffe](https://cdn.cafecito.app/imgs/cafecito_logo.svg)](https://cafecito.app/xlmriosx) Invite me a coffe  -->
 
-### [![Little coffe](https://cdn.cafecito.app/imgs/cafecito_logo.svg)](https://cafecito.app/xlmriosx) Invite me a coffe 
 
-
-# ⚖My Stack
+<!-- # ⚖My Stack -->
 
 <h2 align="center">A SRE from Argentina to the world 🗺️</h3>
 
