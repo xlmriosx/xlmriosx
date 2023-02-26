@@ -62,12 +62,12 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=xlmriosx&label=Profile%20views&color=143ac2&style=flat" alt="xlmriosx" />
 </p>
-<p align="left"> 
+<p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=xlmriosx" alt="xlmriosx" />
 </a> 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xlmriosx&show_icons=true&locale=en&layout=compact" alt="xlmriosx" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xlmriosx&show_icons=true&locale=en&layout=compact" alt="xlmriosx" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xlmriosx&show_icons=true&locale=en" alt="xlmriosx" /></p>
 
