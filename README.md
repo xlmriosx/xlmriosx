@@ -18,7 +18,7 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 </a>
@@ -69,6 +69,6 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xlmriosx&show_icons=true&locale=en&layout=compact" alt="xlmriosx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xlmriosx&show_icons=true&locale=en" alt="xlmriosx" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xlmriosx&show_icons=true&locale=en" alt="xlmriosx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xlmriosx&theme=dark" alt="xlmriosx" /></p>
