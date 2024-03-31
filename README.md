@@ -1,4 +1,4 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 
 <h1 align="center">Hi People 👋! I'm Lucas M. Rios</h1>
 
@@ -8,6 +8,7 @@ I am currently working with Python🐍, but I am always looking for new opportun
 I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for every languague programming💻 and statitics problems📊.
 </h4>
 <!-- ### [![Little coffe](https://cdn.cafecito.app/imgs/cafecito_logo.svg)](https://cafecito.app/xlmriosx) Invite me a coffe  -->
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="xlmriosx" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/xlmriosx?trk=profile-badge">Lucas M. Rios</a></div>
 
 <!-- # ⚖My Stack -->
