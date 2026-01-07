@@ -9,24 +9,20 @@ I'm open to collaborate on projects🥋 and help people👨‍👦‍👦 for ev
 </h4>
 
 
-<h2 align="center">A SRE from Argentina to the world 🗺️</h3>
+<h2 align="center">A Software Engineer | Architect DevOps Engineering | SRE from Argentina to the world 🗺️</h3>
 
  <div style="justify-content: center; align: center">
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=xlmriosx&label=Profile%20views&color=143ac2&style=flat" alt="xlmriosx" />
 </p>
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=xlmriosx" alt="xlmriosx" />
 </a>
 
 <p align="center">
  <img src="https://api.boot.dev/v1/users/public/a206bea7-3125-4791-8da9-77baed727087/thumbnail" >
 </p>
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xlmriosx&show_icons=true&locale=en&layout=compact" alt="xlmriosx" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xlmriosx&show_icons=true&locale=en" alt="xlmriosx" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xlmriosx&theme=dark" alt="xlmriosx" /></p>
  </div>
